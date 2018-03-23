@@ -19,7 +19,7 @@ create table EMPLOYEES(
 ID NUMBER PRYMARY KEY,
 MANAGER_ID NUMBER ,
 Date of joining NUMBER NOT  NULL,
-full_name VARCHAR2 (255 BYTE)
+full_name VARCHAR2 (255)
 )
 
 
